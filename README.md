@@ -6,4 +6,4 @@
 
 #### Image: 
 
-<img src="https://imgbox.com/vE97gDvX" width=150>
+<img src="MePrague.JPG" width=150>
