@@ -22,5 +22,3 @@ public and private methods.
 - Launch the program with a text file called data.txt with the following format for fractions:
 
 a/b +,-,*,/ x/y
-
-
