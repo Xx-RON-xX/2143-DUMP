@@ -1,2 +1,1 @@
-
-<img src="Screenshot 2024-10-10 234204">
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
